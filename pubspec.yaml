@@ -1,0 +1,7 @@
+name: dartlero_tache
+version: 0.0.1
+author: Evèssèhou Moïse Dovonou <dovonoumoise@yahoo.fr>
+description: An example how to use Dartlero, a model framework for educational purposes.
+dependencies:
+  dartlero:
+    git: git://github.com/dzenanr/dartlero.git
