@@ -1,0 +1,25 @@
+ex04
+
+7/10
+
+en retard (la prochaine fois 0)
+
+dartlaro -> dartlero
+
+pubspec.lock @GitHib ?
+
+bin ? supprimer !
+
+Create a model in dartlero for the standard TodoMVC web application.
+(-2) modèle ?
+class Project extends ConceptEntity<Project> {
+  String name;
+  String description;
+terminé ?
+
+(-1) Project
+->
+Tache
+
+seulement 8 tests ?
+
